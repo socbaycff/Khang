@@ -49,6 +49,6 @@ int main(){
 	time t2(0,59,67);
 	t2.display();
 	time t3;
-	t3=t1+t2;
-	t3.display();
+	//t3=t1+t2;
+	//t3.display();
 }
