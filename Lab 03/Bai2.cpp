@@ -19,5 +19,5 @@ class employee{
 };
 int main(){
 	employee e1(1,3000);
-	e1.tinh(3);
+	//e1.tinh(3);
 }
