@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "hola";
+    cout << "holo";
     cout << "System.out.println";
-    dqwdq
 	return 0;
 }
