@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "holo";
+    cout << "hello";
     cout << "System.out.println";
 	return 0;
 }
